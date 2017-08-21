@@ -1,1 +1,1 @@
-github api からアップロード
+github api から コミット
