@@ -139,10 +139,10 @@ levelzov0204: 300
 countzov0204: 2
 hpzov0204: 844
 upzov0204: false
-lightz1001: 1692892.739327
+lightz1001: 7778796.406007
 levellightz1001: 500
 countlightz1001: 4
-hplightz1001: 1554
+hplightz1001: 1586
 uplightz1001: false
 darumakka2: 593348.577609
 leveldarumakka2: 100
@@ -164,10 +164,10 @@ levelasan9686: 100
 countasan9686: 0
 hpasan9686: 154
 upasan9686: false
-Shuriken110: 9412343.651269
-levelShuriken110: 3000
-countShuriken110: 29
-hpShuriken110: 6590
+Shuriken110: 5313022.611848
+levelShuriken110: 3200
+countShuriken110: 31
+hpShuriken110: 6978
 upShuriken110: false
 kurutoozisan: 1331.000000
 levelkurutoozisan: 100
@@ -214,10 +214,10 @@ levelHaltingElf72682: 100
 countHaltingElf72682: 0
 hpHaltingElf72682: 174
 upHaltingElf72682: false
-yumi1111: 593348.577610
+yumi1111: 1862182.013260
 levelyumi1111: 300
 countyumi1111: 2
-hpyumi1111: 768
+hpyumi1111: 816
 upyumi1111: false
 ktnt0928: 405265.062230
 levelktnt0928: 100
@@ -379,11 +379,11 @@ levelXx Ender0941 xX: 100
 countXx Ender0941 xX: 0
 hpXx Ender0941 xX: 164
 upXx Ender0941 xX: false
-mohukiti777: 7778796.406009
-levelmohukiti777: 100
-countmohukiti777: 0
-hpmohukiti777: 188
-upmohukiti777: false
+mohukiti777: 11000000.000000
+levelmohukiti777: 200
+countmohukiti777: 1
+hpmohukiti777: 199
+upmohukiti777: true
 esuto090: 2048400.214574
 levelesuto090: 100
 countesuto090: 0
@@ -644,10 +644,10 @@ levelhamu mein2018: 100
 counthamu mein2018: 0
 hphamu mein2018: 182
 uphamu mein2018: false
-kaeno2299: 3991752.525664
+kaeno2299: 4390927.778230
 levelkaeno2299: 100
 countkaeno2299: 0
-hpkaeno2299: 174
+hpkaeno2299: 176
 upkaeno2299: false
 yutosan2871: 2253240.236044
 levelyutosan2871: 100
@@ -659,20 +659,20 @@ levelhiromun0120: 200
 counthiromun0120: 1
 hphiromun0120: 454
 uphiromun0120: false
-MASAKI128: 334929.803496
+MASAKI128: 1051153.199501
 levelMASAKI128: 100
 countMASAKI128: 0
-hpMASAKI128: 122
+hpMASAKI128: 146
 upMASAKI128: false
-dmpw: 129129.938163
+dmpw: 1538993.399332
 leveldmpw: 100
 countdmpw: 0
-hpdmpw: 102
+hpdmpw: 154
 updmpw: false
-ionZ4: 3991752.525806
-levelionZ4: 300
-countionZ4: 2
-hpionZ4: 848
+ionZ4: 12527829.399839
+levelionZ4: 400
+countionZ4: 3
+hpionZ4: 1396
 upionZ4: false
 shoooo3115: 17449.402270
 levelshoooo3115: 100
@@ -684,20 +684,20 @@ levelAimlessPrince27: 100
 countAimlessPrince27: 0
 hpAimlessPrince27: 126
 upAimlessPrince27: false
-IDOid0: 11388935.818041
-levelIDOid0: 100
-countIDOid0: 0
-hpIDOid0: 196
-upIDOid0: false
+IDOid0: 11000000.000000
+levelIDOid0: 200
+countIDOid0: 1
+hpIDOid0: 199
+upIDOid0: true
 ZORTAXch: 1331.000000
 levelZORTAXch: 100
 countZORTAXch: 0
 hpZORTAXch: 6
 upZORTAXch: false
-MortalEgg701882: 2593.742460
+MortalEgg701882: 34003.948586
 levelMortalEgg701882: 100
 countMortalEgg701882: 0
-hpMortalEgg701882: 20
+hpMortalEgg701882: 74
 upMortalEgg701882: false
 hanwa1974: 1331.000000
 levelhanwa1974: 100
@@ -904,10 +904,10 @@ leveltetoponn0106: 100
 counttetoponn0106: 0
 hptetoponn0106: 122
 uptetoponn0106: false
-kamkam0123: 304481.639541
+kamkam0123: 955593.817726
 levelkamkam0123: 100
 countkamkam0123: 0
-hpkamkam0123: 120
+hpkamkam0123: 144
 upkamkam0123: false
 WonkierAuthor46: 1000
 levelWonkierAuthor46: 100
@@ -1104,4 +1104,14 @@ levelAkaisekaiorigin: 100
 countAkaisekaiorigin: 0
 hpAkaisekaiorigin: 2
 upAkaisekaiorigin: false
+kanato16661025: 5313022.611848
+levelkanato16661025: 100
+countkanato16661025: 0
+hpkanato16661025: 180
+upkanato16661025: false
+KUROKONOYUUKI: 45259.255568
+levelKUROKONOYUUKI: 100
+countKUROKONOYUUKI: 0
+hpKUROKONOYUUKI: 80
+upKUROKONOYUUKI: false
 ...
