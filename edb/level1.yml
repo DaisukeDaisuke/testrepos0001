@@ -4,11 +4,11 @@ levelkirimon382: 34700
 countkirimon382: 346
 hpkirimon382: 69800
 upkirimon382: false
-NKGISA: 55000000.000000
-levelNKGISA: 3900
-countNKGISA: 38
-hpNKGISA: 8198
-upNKGISA: true
+NKGISA: 652683.435371
+levelNKGISA: 4100
+countNKGISA: 40
+hpNKGISA: 8734
+upNKGISA: false
 ajgdpjp3: 55000000.000000
 levelajgdpjp3: 4000
 countajgdpjp3: 39
@@ -434,11 +434,11 @@ leveltonka0723: 100
 counttonka0723: 0
 hptonka0723: 146
 uptonka0723: false
-a1145141919810a: 10353578.016395
-levela1145141919810a: 2200
-counta1145141919810a: 21
-hpa1145141919810a: 4992
-upa1145141919810a: false
+a1145141919810a: 55000000.000000
+levela1145141919810a: 2300
+counta1145141919810a: 22
+hpa1145141919810a: 4998
+upa1145141919810a: true
 Toakun0: 11388935.818609
 levelToakun0: 100
 countToakun0: 0
@@ -889,10 +889,10 @@ levelTechedBaker2819: 100
 countTechedBaker2819: 0
 hpTechedBaker2819: 0
 upTechedBaker2819: false
-moka4649: 1271895.371395
+moka4649: 3628865.932551
 levelmoka4649: 600
 countmoka4649: 5
-hpmoka4649: 1748
+hpmoka4649: 1770
 upmoka4649: false
 bekkamu0403: 7071633.095776
 levelbekkamu0403: 100
@@ -1304,10 +1304,10 @@ levelkaito3424576: 100
 countkaito3424576: 0
 hpkaito3424576: 72
 upkaito3424576: false
-Splatoon shio: 789746.956799
+Splatoon shio: 2253240.236044
 levelSplatoon shio: 2300
 countSplatoon shio: 22
-hpSplatoon shio: 5138
+hpSplatoon shio: 5160
 upSplatoon shio: false
 ka1ke1ru14: 2143.588810
 levelka1ke1ru14: 100
@@ -1384,11 +1384,11 @@ levelgaitarou: 100
 countgaitarou: 0
 hpgaitarou: 32
 upgaitarou: false
-CandyGo0913: 11388935.818036
-levelCandyGo0913: 300
-countCandyGo0913: 2
-hpCandyGo0913: 892
-upCandyGo0913: false
+CandyGo0913: 33000000.000000
+levelCandyGo0913: 400
+countCandyGo0913: 3
+hpCandyGo0913: 901
+upCandyGo0913: true
 BarrelTester446: 1000
 levelBarrelTester446: 100
 countBarrelTester446: 0
@@ -1434,10 +1434,10 @@ levelspreadzoominato: 100
 countspreadzoominato: 0
 hpspreadzoominato: 0
 upspreadzoominato: false
-YTramen1131: 2478564.259648
+YTramen1131: 2999062.754174
 levelYTramen1131: 200
 countYTramen1131: 1
-hpYTramen1131: 445
+hpYTramen1131: 451
 upYTramen1131: false
 gonzaemon830zx: 8556676.046607
 levelgonzaemon830zx: 400
@@ -1454,10 +1454,10 @@ levelsyuut2222: 400
 countsyuut2222: 3
 hpsyuut2222: 1376
 upsyuut2222: false
-wwwytoo: 2253240.236041
+wwwytoo: 3628865.932546
 levelwwwytoo: 100
 countwwwytoo: 0
-hpwwwytoo: 162
+hpwwwytoo: 172
 upwwwytoo: false
 Tami19705121: 1000
 levelTami19705121: 100
@@ -1474,11 +1474,11 @@ levelChosenbet1: 600
 countChosenbet1: 5
 hpChosenbet1: 1772
 upChosenbet1: false
-creeper1451: 55000000.000000
+creeper1451: 2253240.236044
 levelcreeper1451: 600
 countcreeper1451: 5
-hpcreeper1451: 1598
-upcreeper1451: true
+hpcreeper1451: 1760
+upcreeper1451: false
 Sakuramoti0522: 11918.176538
 levelSakuramoti0522: 100
 countSakuramoti0522: 0
@@ -1849,11 +1849,11 @@ levelRegentString752: 100
 countRegentString752: 0
 hpRegentString752: 0
 upRegentString752: false
-PedalKibbles74: 12527829.399838
-levelPedalKibbles74: 200
-countPedalKibbles74: 1
-hpPedalKibbles74: 496
-upPedalKibbles74: false
+PedalKibbles74: 22000000.000000
+levelPedalKibbles74: 300
+countPedalKibbles74: 2
+hpPedalKibbles74: 500
+upPedalKibbles74: true
 BonzerCypress52: 1000
 levelBonzerCypress52: 100
 countBonzerCypress52: 0
@@ -2054,15 +2054,15 @@ leveltststssss: 100
 counttststssss: 0
 hptststssss: 2
 uptststssss: false
-tuyosi0924: 66264.076077
+tuyosi0924: 207965.056718
 leveltuyosi0924: 100
 counttuyosi0924: 0
-hptuyosi0924: 88
+hptuyosi0924: 112
 uptuyosi0924: false
-Norio28: 97017.233779
+Norio28: 228761.562376
 levelNorio28: 100
 countNorio28: 0
-hpNorio28: 96
+hpNorio28: 114
 upNorio28: false
 AquilineSkate33: 1000
 levelAquilineSkate33: 100
@@ -2079,10 +2079,10 @@ levelshine7405 sub: 100
 countshine7405 sub: 0
 hpshine7405 sub: 0
 upshine7405 sub: false
-sinsuilemo: 8954.302432
+sinsuilemo: 11918.176537
 levelsinsuilemo: 100
 countsinsuilemo: 0
-hpsinsuilemo: 46
+hpsinsuilemo: 52
 upsinsuilemo: false
 budou0825: 1000
 levelbudou0825: 100
